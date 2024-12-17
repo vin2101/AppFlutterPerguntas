@@ -1,6 +1,6 @@
-# teste
+# Aplicacao simples para aprendizado
 
-A new Flutter project.
+Projeto visando o aprendizado da linguagem.
 
 ## Getting Started
 
