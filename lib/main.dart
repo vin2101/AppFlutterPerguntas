@@ -8,7 +8,7 @@ class _PerguntaAppState extends State <PerguntaApp> {
   var _pontuacaoTotal = 0;
   final _perguntas = const [
         {
-          'texto': 'Qual é a sua cor favorita?',
+          'texto': 'Qual é a sua cor predileta?',
           'respostas': [
             {'texto': 'Verde', 'pontuacao' : 10},
             {'texto': 'Vermelho', 'pontuacao' : 7},
